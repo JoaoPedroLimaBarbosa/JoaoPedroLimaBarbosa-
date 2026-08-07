@@ -4,22 +4,7 @@
 
 Olá! Me chamo João Pedro, sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia. Já passei por projetos de desenvolvimento web (front-end e back-end), ciência de dados e estruturas de dados, sempre buscando aprender coisas novas e colocar a mão no código.
 
-<p align="left">
-    <a href="https://github.com/JoaoPedroLimaBarbosa?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JoaoPedroLimaBarbosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/JoaoPedroLimaBarbosa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JoaoPedroLimaBarbosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
 
 ---
 
